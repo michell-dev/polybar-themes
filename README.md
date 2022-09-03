@@ -1,5 +1,5 @@
 # Polybar Themes
-A set of configuration themes for the []([https://www.google.com](https://github.com/polybar/polybar) "Polybar") status bar.
+A set of configuration themes for the [Polybar]([https://www.google.com](https://github.com/polybar/polybar) "Polybar") status bar.
 
 "Polybar aims to help users build beautiful and highly customizable status bars for their desktop environment, without the need of having a black belt in shell scripting."
  
