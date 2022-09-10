@@ -161,7 +161,7 @@ label-muted = 婢 muted
 label-muted-foreground = ${colors.alert}
 
 bar-volume-width = 7
-bar-volume-foreground-0 = ${colors.background-alt}
+bar-volume-foreground-0 = ${colors.foreground}
 bar-volume-gradient = false
 bar-volume-indicator = O
 bar-volume-indicator-font = 2.5
