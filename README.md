@@ -10,3 +10,6 @@
 
 ###### 02. Dracula Theme Preview. (Laptop Settings)
 ![image](https://github.com/michell-dev/polybar-themes/blob/main/Previews/dracula.png?=400x250)
+
+###### 03. Dark Platinum. (Ultrawide Settings)
+![image](https://github.com/michell-dev/polybar-themes/blob/main/Previews/dark-platinum.png?=400x250)
