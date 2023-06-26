@@ -17,5 +17,8 @@
 ###### :diamond_shape_with_a_dot_inside: 02. Dracula Theme Preview. (Laptop Settings)
 ![image](https://github.com/michell-dev/polybar-themes/blob/main/Previews/dracula.png?=400x250)
 
-###### :diamond_shape_with_a_dot_inside: 03. Dark Platinum. (Ultrawide Settings)
+###### :diamond_shape_with_a_dot_inside: 03. Dark Platinum Preview. (Ultrawide Settings)
 ![image](https://github.com/michell-dev/polybar-themes/blob/main/Previews/dark-platinum.png?=400x250)
+
+###### :diamond_shape_with_a_dot_inside: 04. Gunmetal Preview. (Ultrawide Settings)
+![image](https://github.com/michell-dev/polybar-themes/blob/main/Previews/gunmetal.png?=400x250)
